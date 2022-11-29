@@ -7,7 +7,7 @@ cachetools==4.2.4
 certifi==2021.10.8
 cffi==1.15.0
 charset-normalizer==2.0.8
-cleo==0.6.8
+cleo==2.0.0
 click==8.0.3
 Faker==0.8.18
 Flask==2.0.2
